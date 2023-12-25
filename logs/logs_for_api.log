@@ -149,3 +149,15 @@
 }
 2023-12-25 15:25:54,398 - DEBUG - {'id': 1, 'name': 'John Doe Jr.', 'description': 'Example information personal it. Rule also low visit purp'}
 2023-12-25 15:25:54,398 - DEBUG - -----------
+2023-12-25 15:47:19,244 - DEBUG - GET example
+2023-12-25 15:47:19,244 - DEBUG - http://localhost:3000/companies/1
+2023-12-25 15:47:19,244 - DEBUG - 200
+2023-12-25 15:47:19,244 - DEBUG - OK
+2023-12-25 15:47:19,244 - DEBUG - {
+  "id": 1,
+  "CEO": "Stephen Maxwell",
+  "company": "Bowen, Davidson and Harris",
+  "address": "4586 Alvarado Drive\nPort Gregorystad, DC 20643"
+}
+2023-12-25 15:47:19,244 - DEBUG - {'id': 1, 'CEO': 'Stephen Maxwell', 'company': 'Bowen, Davidson and Harris', 'address': '4586 Alvarado Drive\nPort Gregorystad, DC 20643'}
+2023-12-25 15:47:19,244 - DEBUG - -----------
